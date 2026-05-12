@@ -6,7 +6,7 @@ A macOS menu bar app for checking DeepSeek balance and usage.
 
 - Check DeepSeek account balance
 - View usage statistics
-- API key stored in macOS Keychain
+- API key stored locally on this Mac
 - Run as a menu bar app
 - Optional launch at login
 
@@ -25,7 +25,7 @@ A macOS menu bar app for checking DeepSeek balance and usage.
 
 ## Privacy
 
-API key is stored locally in macOS Keychain. The app only talks to DeepSeek API endpoints needed for balance and usage queries.
+API key is stored locally on this Mac using app preferences. The app only talks to DeepSeek API endpoints needed for balance and usage queries.
 
 ## Build from Source
 
